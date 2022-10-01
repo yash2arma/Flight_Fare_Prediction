@@ -13,9 +13,6 @@ model = pickle.load(open("flight_price_rf_new.pkl", "rb"))
 def home():
     return render_template("home.html")
 
-
-
-
 @app.route("/predict", methods = ["GET", "POST"])
 @cross_origin()
 def predict():
@@ -121,14 +118,6 @@ def predict():
                 d_New_Delhi = 0
                 d_Hyderabad = 0
                 d_Kolkata = 0
-
-            # print(
-            #     d_Cochin,
-            #     d_Delhi,
-            #     d_New_Delhi,
-            #     d_Hyderabad,
-            #     d_Kolkata
-            # )
 
             # Airline
             # AIR ASIA = 0 (not in column)

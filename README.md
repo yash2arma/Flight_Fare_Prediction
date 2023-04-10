@@ -8,7 +8,9 @@
 [PPT](https://docs.google.com/presentation/d/1WLHb3ObyiDRc7xY4rwcgLCfcnyB6qmwJ/edit?usp=sharing&ouid=116267465568383886110&rtpof=true&sd=true)
 
 # Overview
-Basically, a Webapp that predicts prices of different different airlines for a chosen day. <br/>
+A Flask web application which uses random forest regression model to predicts the
+flight fares of different airlines across the Indian cities and help user to get the best deal on a chosen
+day <br/>
 <strong>Project Domain</strong> : Machine Learning & Web Development <br />
 
 # Tech Stack

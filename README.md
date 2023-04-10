@@ -14,8 +14,8 @@ day <br/>
 <strong>Project Domain</strong> : Machine Learning & Web Development <br />
 
 # Tech Stack
-<strong>Frontend</strong> : HTML, CSS, JavaScript <br />
+<strong>Frontend</strong> : HTML, CSS, Bootstrap <br />
 <strong>Backend</strong> : Flask, python <br />
-<strong>Important Packages Used</strong> : numpy, pandas, scikit-learn, seaborn,Flask, gunicorn, Jinja2 <br />
+<strong>Important Packages Used</strong> : numpy, pandas, scikit-learn, seaborn, flask, gunicorn, jinja2 <br />
 <strong>Other</strong> : Machine Learning, Feature engineering, Exploratory Data Analysis <br />
 <strong>Deployed on</strong> : Heroku <br />
